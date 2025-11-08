@@ -1,28 +1,55 @@
-# daikos-portfolio
-Small pentest tools, writeups, and lab notes by **Dheemanth Rao (Daikos)**.
+# D-aikos Portfolio
 
-## 📘 About
-Cybersecurity student focused on offensive security, penetration testing, and Linux systems.  
-This repository is a collection of tools, scripts, and write-ups that I developed during my learning journey.
+**Author:** Dheemanth M Rao (D-aikos)  
+**Focus:** Cybersecurity Student | Offensive Security Enthusiast  
+**Contact:** mahesh.dheemanth@gmail.com
+**LinkedIn:** https://www.linkedin.com/in/raodheemanthm
 
-## 📂 Structure
-- `tools/` — Custom scripts and automation for recon & pentesting  
-- `writeups/` — CTFs, labs, and exploit walkthroughs  
-- `cheatsheets/` — Quick command references and study notes  
-- `docs/` — Reports, templates, and formatted deliverables  
+---
 
-## 🧰 Example Projects
-1. **nmap-to-json** — Converts Nmap XML output into readable JSON summaries.  
-2. **dirbrute-lite** — Simple Python-based web directory brute forcer.  
-3. **priv-esc-checker** — Bash tool for quick privilege escalation enumeration.  
+## About
+This repository is a collection of my work as I learn and explore the field of cybersecurity.  
+It includes small tools, writeups, and notes from hands-on labs, courses, and personal experiments.  
+My goal is to document everything I build or learn as I work toward becoming a Cybersecurity Professional.
 
-## 🧠 Current Focus
-Learning network fundamentals, Linux, scripting, and practical hacking through labs like:
-- Cisco NetAcad
-- The Linux Foundation
-- TryHackMe / OverTheWire
-- PortSwigger Academy
+---
 
-## 📫 Contact
-Email: dheemanthstudyacc@gmail.com  
-LinkedIn: *coming soon!*  
+## Repository Layout
+
+| Folder | Description |
+|---------|-------------|
+| `tools/` | Python or Bash scripts for recon, enumeration, and automation |
+| `writeups/` | Notes and walkthroughs from labs, challenges, and exercises |
+| `cheatsheets/` | Quick reference guides and command summaries |
+| `docs/` | Reports, templates, and formatted notes |
+
+---
+
+## Sample Projects
+**1. Nmap Parser**  
+A small Python script that converts Nmap XML output into a cleaner, JSON-style summary for review.
+
+**2. DirBrute**  
+Simple directory brute-forcer using Python’s `requests` module.
+
+**3. PrivEsc Notes**  
+Collection of Linux privilege-escalation commands and findings from labs.
+
+---
+
+## Currently Learning
+- Networking and Linux fundamentals  
+- Bash and Python scripting  
+- Web security basics (XSS, SQL Injection, etc.)  
+- Practical hacking labs (TryHackMe, OverTheWire, PortSwigger)
+
+---
+
+## License
+This project is shared under the **MIT License** — you can reuse or modify it with credit.
+
+---
+
+## Notes
+I’m still learning, so this repo will grow over time.  
+Feedback and suggestions are always welcome.

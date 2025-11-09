@@ -14,14 +14,19 @@ My goal is to document everything I build or learn as I work toward becoming a C
 
 ---
 
-## Repository Layout
+## Repository Structure
 
-| Folder | Description |
-|---------|-------------|
-| `tools/` | Python or Bash scripts for recon, enumeration, and automation |
-| `writeups/` | Notes and walkthroughs from labs, challenges, and exercises |
-| `cheatsheets/` | Quick reference guides and command summaries |
-| `docs/` | Reports, templates, and formatted notes |
+| Directory | Description |
+|------------|-------------|
+| **.github/workflows/** | Continuous integration and automation pipelines for testing and maintenance. |
+| **bin/** | Standalone scripts and executable utilities for security workflows. |
+| **cheatsheets/** | Quick reference materials for tools, techniques, and frameworks (e.g., Linux, networking, exploitation). |
+| **docs/** | Technical documentation, research notes, and internal guides. |
+| **examples/** | Demonstrations of exploit development, automation scripts, and proof-of-concept code. |
+| **tests/** | Test cases and validation scripts for tools and modules. |
+| **tools/** | Custom-built cybersecurity tools, scripts, and analysis utilities. |
+| **writeups/** | CTF challenges, vulnerability analyses, and research writeups. |
+
 
 ---
 

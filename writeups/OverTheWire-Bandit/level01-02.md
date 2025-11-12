@@ -13,7 +13,7 @@ The password for this level is [ZjLjTmM6FvvyRnrb2rfNWOZOTa6ip5If]
     > cat ./- (reads the file "-" to find password as stated in question. To read dashed files use ./ to seperate name from command)
 
 The commands outputs the following:
-
+<img width="520" height="163" alt="image" src="https://github.com/user-attachments/assets/d8639cc6-27ea-4262-a656-296229d2cac9" />
 
 This contains the password needed to move on to the next level.
 To log in to Level 2, we use the retrieved password:

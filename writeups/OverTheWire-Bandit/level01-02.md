@@ -21,4 +21,4 @@ ssh bandit2@bandit.labs.overthewire.org -p 2220
 
 That’s it — Level 1 is complete.
 
-**[Password for Level 1: 263JGJPfgU6LtdEvgfWU1XP5yac29mFx]**
+**[Password for Level 2: 263JGJPfgU6LtdEvgfWU1XP5yac29mFx]**

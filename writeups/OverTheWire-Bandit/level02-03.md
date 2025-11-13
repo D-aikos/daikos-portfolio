@@ -1,6 +1,6 @@
 # OverTheWire: Bandit — Level 2 → Level 3
 
-Read a file with restricted permissions to retrieve the next level password.
+Search for a file named `spaces in this filename` and read its contents to find the password.
 
 We start by connecting to the remote server using the provided credentials:
 

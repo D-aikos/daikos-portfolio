@@ -1,6 +1,6 @@
 # OverTheWire: Bandit — Level 1 → Level 2
 
-Read a file with restricted permissions to retrieve the next level password.
+Read the password stored in a file named `-` (a filename that looks like a flag) in the home directory.
 
 We start by connecting to the remote server using the provided credentials:
 
